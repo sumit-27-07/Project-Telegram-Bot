@@ -3,7 +3,7 @@ from telebot import types
 import random
 from exercises import exercises_dict
 
-BOT_TOKEN = '6194069589:AAFbLGeVmdthnyCoT6hiwyM5sXtIJxWe-Dw'
+BOT_TOKEN = ''
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
